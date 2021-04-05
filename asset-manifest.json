@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/arnaud-vanderschriek/basicCanvasGame/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/arnaud-vanderschriek/basicCanvasGame/static/js/main.15707a7e.chunk.js",
-    "main.js.map": "/arnaud-vanderschriek/basicCanvasGame/static/js/main.15707a7e.chunk.js.map",
-    "runtime-main.js": "/arnaud-vanderschriek/basicCanvasGame/static/js/runtime-main.f0788557.js",
-    "runtime-main.js.map": "/arnaud-vanderschriek/basicCanvasGame/static/js/runtime-main.f0788557.js.map",
-    "static/js/2.ad07c846.chunk.js": "/arnaud-vanderschriek/basicCanvasGame/static/js/2.ad07c846.chunk.js",
-    "static/js/2.ad07c846.chunk.js.map": "/arnaud-vanderschriek/basicCanvasGame/static/js/2.ad07c846.chunk.js.map",
-    "static/js/3.05e77319.chunk.js": "/arnaud-vanderschriek/basicCanvasGame/static/js/3.05e77319.chunk.js",
-    "static/js/3.05e77319.chunk.js.map": "/arnaud-vanderschriek/basicCanvasGame/static/js/3.05e77319.chunk.js.map",
-    "index.html": "/arnaud-vanderschriek/basicCanvasGame/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/arnaud-vanderschriek/basicCanvasGame/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ad07c846.chunk.js.LICENSE.txt": "/arnaud-vanderschriek/basicCanvasGame/static/js/2.ad07c846.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/arnaud-vanderschriek/basicCanvasGame/static/media/logo.6ce24c58.svg"
+    "main.css": "/basicCanvasGame/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/basicCanvasGame/static/js/main.15707a7e.chunk.js",
+    "main.js.map": "/basicCanvasGame/static/js/main.15707a7e.chunk.js.map",
+    "runtime-main.js": "/basicCanvasGame/static/js/runtime-main.10ec8bef.js",
+    "runtime-main.js.map": "/basicCanvasGame/static/js/runtime-main.10ec8bef.js.map",
+    "static/js/2.ad07c846.chunk.js": "/basicCanvasGame/static/js/2.ad07c846.chunk.js",
+    "static/js/2.ad07c846.chunk.js.map": "/basicCanvasGame/static/js/2.ad07c846.chunk.js.map",
+    "static/js/3.05e77319.chunk.js": "/basicCanvasGame/static/js/3.05e77319.chunk.js",
+    "static/js/3.05e77319.chunk.js.map": "/basicCanvasGame/static/js/3.05e77319.chunk.js.map",
+    "index.html": "/basicCanvasGame/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/basicCanvasGame/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ad07c846.chunk.js.LICENSE.txt": "/basicCanvasGame/static/js/2.ad07c846.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/basicCanvasGame/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0788557.js",
+    "static/js/runtime-main.10ec8bef.js",
     "static/js/2.ad07c846.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.15707a7e.chunk.js"
